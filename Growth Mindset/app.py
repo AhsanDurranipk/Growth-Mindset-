@@ -24,8 +24,8 @@ with st.container():
         ambition, push your limits, and remind you that greatness lies within you.
         Believe in yourself, embrace the journey, and watch how motivation transforms into
         unstoppable success! 🚀✨ """)
-        st.write("[learn more] (https://www.youtube.com/@Buggs_____________bunnyyy)")
-        st.write("[Instagram] (https://www.instagram.com/bugs____bunnyyyy__/#)")
+        st.write("[learn more] (https://www.instagram.com/ahsan_durani_pk/)")
+        st.write("[Instagram] (https://www.instagram.com/ahsan_durani_pk/#)")
         st.write("####")
         st.text("""Thank you for visiting the site! 🌟 May you leave with a heart 
         full of inspiration and a mind ready to conquer new heights. Keep striving,
